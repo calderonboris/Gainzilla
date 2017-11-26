@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Gainzilla.iml" filepath="$PROJECT_DIR$/Gainzilla.iml" />
-      <module fileurl="file://C:\Users\B27\Desktop\CS 321\project\Gainzilla\Gainzilla2.iml" filepath="C:\Users\B27\Desktop\CS 321\project\Gainzilla\Gainzilla2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
